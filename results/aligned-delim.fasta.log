@@ -1,0 +1,158 @@
+IQ-TREE multicore version 2.1.2 COVID-edition for Linux 64-bit built Oct 22 2020
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    a76ff1c83172 (AVX512, FMA3, 125 GB RAM)
+Command: iqtree -ntmax 1 -s results/aligned-delim.fasta -m GTR -ninit 2 -n 2 -me 0.05 -nt AUTO -redo
+Seed:    421607 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Apr 24 04:02:51 2023
+Kernel:  AVX+FMA - auto-detect threads (20 CPU cores detected)
+
+Reading alignment file results/aligned-delim.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 79 sequences with 3206 columns, 558 distinct patterns
+378 parsimony-informative, 179 singleton sites, 2649 constant sites
+                                                                                     Gap/Ambiguity  Composition  p-value
+   1  MF795150.1                                                                             0.00%    passed     95.81%
+   2  USA_DELIM-JBKYEBXVPOLTXATBTMPK_NY_DELIM-JBKYEBXVPOLTXATBTMPK_JRT456                    0.00%    passed     98.46%
+   3  Can_DELIM-JBKYEBXVPOLTXATBTMPK_BCRB6                                                   0.00%    passed     99.35%
+   4  Can_DELIM-JBKYEBXVPOLTXATBTMPK_BCRB7                                                   0.00%    passed     98.85%
+   5  Can_DELIM-JBKYEBXVPOLTXATBTMPK_BCRB8                                                   0.00%    passed     98.51%
+   6  USA_DELIM-JBKYEBXVPOLTXATBTMPK_CF214_2                                                 0.00%    passed     97.80%
+   7  USA_DELIM-JBKYEBXVPOLTXATBTMPK_CF214_1                                                 0.00%    passed     97.80%
+   8  USA_DELIM-JBKYEBXVPOLTXATBTMPK_Ore_DELIM-JBKYEBXVPOLTXATBTMPK_OR1a                     0.00%    passed     96.97%
+   9  USA_DELIM-JBKYEBXVPOLTXATBTMPK_NY_DELIM-JBKYEBXVPOLTXATBTMPK_NY147                     0.00%    passed     98.15%
+  10  USA_DELIM-JBKYEBXVPOLTXATBTMPK_Ida_DELIM-JBKYEBXVPOLTXATBTMPK_GRBV_IDB8_Merlot_2011    0.00%    passed     97.45%
+  11  USA_DELIM-JBKYEBXVPOLTXATBTMPK_Ida_DELIM-JBKYEBXVPOLTXATBTMPK_GRBV_ID15_Syrah_2014     0.00%    passed     96.77%
+  12  USA_DELIM-JBKYEBXVPOLTXATBTMPK_Ida_DELIM-JBKYEBXVPOLTXATBTMPK_GRBV_IDA8_Syrah_2011     0.00%    passed     97.33%
+  13  Can_DELIM-JBKYEBXVPOLTXATBTMPK_NSRB3                                                   0.00%    passed     96.57%
+  14  Can_DELIM-JBKYEBXVPOLTXATBTMPK_93_21                                                   0.00%    passed     97.80%
+  15  USA_DELIM-JBKYEBXVPOLTXATBTMPK_Z1A_1                                                   0.00%    passed     99.21%
+  16  USA_DELIM-JBKYEBXVPOLTXATBTMPK_Ida_DELIM-JBKYEBXVPOLTXATBTMPK_GRBV_ID13_Syrah_2014     0.03%    passed     96.15%
+  17  USA_DELIM-JBKYEBXVPOLTXATBTMPK_GiGV_WA_RS                                              0.00%    passed     96.42%
+  18  USA_DELIM-JBKYEBXVPOLTXATBTMPK_GiGV_WA_DS                                              0.00%    passed     96.42%
+  19  USA_DELIM-JBKYEBXVPOLTXATBTMPK_GiGV_WA_CF                                              0.00%    passed     97.61%
+  20  USA_DELIM-JBKYEBXVPOLTXATBTMPK_GiGV_WA_MR                                              0.00%    passed     98.43%
+  21  USA_DELIM-JBKYEBXVPOLTXATBTMPK_Ida_DELIM-JBKYEBXVPOLTXATBTMPK_GRBV_ID14_Syrah_2014     0.00%    passed     98.36%
+  22  UNK_DELIM-JBKYEBXVPOLTXATBTMPK_Z_A2V13                                                 0.00%    passed     99.33%
+  23  Can_DELIM-JBKYEBXVPOLTXATBTMPK_NSRB4                                                   0.03%    passed     96.80%
+  24  Can_DELIM-JBKYEBXVPOLTXATBTMPK_NSRB7                                                   0.44%    passed     98.34%
+  25  Can_DELIM-JBKYEBXVPOLTXATBTMPK_NSRB2                                                   0.06%    passed     96.27%
+  26  Can_DELIM-JBKYEBXVPOLTXATBTMPK_NSRB5                                                   0.03%    passed     97.31%
+  27  GP220589_C60_1_BC04                                                                    0.94%    passed     95.36%
+  28  GRBaV_PosCtrl_BC12                                                                     0.03%    passed     96.93%
+  29  GRBaVPosGP220469_C4_3                                                                  0.16%    passed     96.14%
+  30  GP220469_C4_3_1BC03                                                                    0.09%    passed     97.06%
+  31  PostCTLRB12_4_3                                                                        0.03%    passed     96.93%
+  32  GP220641_C11_5_BC09                                                                    0.09%    passed     94.77%
+  33  GP220784_V51_BC08                                                                      3.52%    passed     99.04%
+  34  GRBaV_positCTL_GP220469_C4_3_3_BC12                                                    0.12%    passed     97.43%
+  35  GP220637_C7_BC03                                                                       4.40%    passed     97.88%
+  36  GRBaV_PosCtrl_GP220469_C4_3C                                                           0.09%    passed     96.46%
+  37  GP220638_C8_BC04                                                                       4.65%    passed     99.01%
+  38  GP220725_C36_BC06                                                                     14.66%    passed     99.41%
+  39  GP220469_C4_10_2_BC10                                                                  5.90%    passed     96.92%
+  40  GP220640_C10_8_BC04                                                                    6.11%    passed     98.59%
+  41  GP220640_C10_2barcode10                                                                5.71%    passed     99.85%
+  42  GP220641_C11_6_BC10                                                                    4.83%    passed     98.64%
+  43  GP220641_C11_3_BC07                                                                    6.05%    passed     97.53%
+  44  GP220641_C11_8_BC02                                                                    4.96%    passed     99.06%
+  45  Can_DELIM-JBKYEBXVPOLTXATBTMPK_3138_03                                                 0.16%    passed     97.93%
+  46  GP220469_C4_6_BC10                                                                    16.72%    passed     91.56%
+  47  Can_DELIM-JBKYEBXVPOLTXATBTMPK_BCRB4                                                   0.00%    passed     99.95%
+  48  USA_DELIM-JBKYEBXVPOLTXATBTMPK_Tex_DELIM-JBKYEBXVPOLTXATBTMPK_TXBDS59                  1.09%    passed     98.49%
+  49  USA_DELIM-JBKYEBXVPOLTXATBTMPK_Tex_DELIM-JBKYEBXVPOLTXATBTMPK_TXBDS66                  1.09%    passed     98.52%
+  50  USA_DELIM-JBKYEBXVPOLTXATBTMPK_Tex_DELIM-JBKYEBXVPOLTXATBTMPK_TXBDS63                  1.09%    passed     98.78%
+  51  USA_DELIM-JBKYEBXVPOLTXATBTMPK_Tex_DELIM-JBKYEBXVPOLTXATBTMPK_TXBDS70                  1.09%    passed     98.19%
+  52  USA_DELIM-JBKYEBXVPOLTXATBTMPK_Tex_DELIM-JBKYEBXVPOLTXATBTMPK_TXBDS712                 1.09%    passed     97.03%
+  53  USA_DELIM-JBKYEBXVPOLTXATBTMPK_Tex_DELIM-JBKYEBXVPOLTXATBTMPK_TXBDS65                  1.09%    passed     94.86%
+  54  USA_DELIM-JBKYEBXVPOLTXATBTMPK_Tex_DELIM-JBKYEBXVPOLTXATBTMPK_TXBDS711                 1.09%    passed     98.93%
+  55  USA_DELIM-JBKYEBXVPOLTXATBTMPK_Flo_DELIM-JBKYEBXVPOLTXATBTMPK_FLBDS92                  1.09%    passed     98.93%
+  56  USA_DELIM-JBKYEBXVPOLTXATBTMPK_Flo_DELIM-JBKYEBXVPOLTXATBTMPK_FLBDS94                  1.09%    passed     98.83%
+  57  Can_DELIM-JBKYEBXVPOLTXATBTMPK_NSRB1                                                   0.06%    passed     98.81%
+  58  USA_DELIM-JBKYEBXVPOLTXATBTMPK_CS337_1                                                 0.06%    passed     72.66%
+  59  Can_DELIM-JBKYEBXVPOLTXATBTMPK_BCRB1                                                   0.06%    passed     77.71%
+  60  Can_DELIM-JBKYEBXVPOLTXATBTMPK_BCRB9                                                   0.06%    passed     77.54%
+  61  Can_DELIM-JBKYEBXVPOLTXATBTMPK_ONRB1                                                   0.12%    passed     76.52%
+  62  Can_DELIM-JBKYEBXVPOLTXATBTMPK_ONRB7                                                   0.06%    passed     70.41%
+  63  Can_DELIM-JBKYEBXVPOLTXATBTMPK_ONRB2                                                   0.12%    passed     75.28%
+  64  Can_DELIM-JBKYEBXVPOLTXATBTMPK_ONRB3                                                   0.06%    passed     75.92%
+  65  Can_DELIM-JBKYEBXVPOLTXATBTMPK_ONRB5                                                   0.06%    passed     73.12%
+  66  Can_DELIM-JBKYEBXVPOLTXATBTMPK_ONRB6                                                   0.06%    passed     81.16%
+  67  Can_DELIM-JBKYEBXVPOLTXATBTMPK_ONRB4                                                   0.12%    passed     80.01%
+  68  USA_DELIM-JBKYEBXVPOLTXATBTMPK_MO_CC7                                                  0.12%    passed     82.11%
+  69  Can_DELIM-JBKYEBXVPOLTXATBTMPK_93_26                                                   0.12%    passed     82.40%
+  70  Can_DELIM-JBKYEBXVPOLTXATBTMPK_NSRB8                                                   0.47%    passed     80.90%
+  71  USA_DELIM-JBKYEBXVPOLTXATBTMPK_NY175A                                                  0.12%    passed     79.32%
+  72  USA_DELIM-JBKYEBXVPOLTXATBTMPK_Ari_DELIM-JBKYEBXVPOLTXATBTMPK_AzMVTN                   0.12%    passed     78.93%
+  73  USA_DELIM-JBKYEBXVPOLTXATBTMPK_Ari_DELIM-JBKYEBXVPOLTXATBTMPK_AzDOV                    0.12%    passed     82.84%
+  74  Can_DELIM-JBKYEBXVPOLTXATBTMPK_BCRB3                                                   0.12%    passed     67.29%
+  75  Can_DELIM-JBKYEBXVPOLTXATBTMPK_NSRB6                                                   0.06%    passed     88.26%
+  76  Can_DELIM-JBKYEBXVPOLTXATBTMPK_BCRB2                                                   0.12%    passed     76.57%
+  77  Can_DELIM-JBKYEBXVPOLTXATBTMPK_BCRB5                                                   0.09%    passed     91.08%
+  78  Ind_DELIM-JBKYEBXVPOLTXATBTMPK_RK_1                                                    0.37%    passed     97.23%
+  79  GP220469_C4_5_2_BC05                                                                  42.05%    passed     69.62%
+****  TOTAL                                                                                  1.70%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: USA_DELIM-JBKYEBXVPOLTXATBTMPK_CF214_1 is identical to USA_DELIM-JBKYEBXVPOLTXATBTMPK_CF214_2 but kept for subsequent analysis
+NOTE: USA_DELIM-JBKYEBXVPOLTXATBTMPK_GiGV_WA_DS is identical to USA_DELIM-JBKYEBXVPOLTXATBTMPK_GiGV_WA_RS but kept for subsequent analysis
+NOTE: PostCTLRB12_4_3 is identical to GRBaV_PosCtrl_BC12 but kept for subsequent analysis
+NOTE: USA_DELIM-JBKYEBXVPOLTXATBTMPK_Flo_DELIM-JBKYEBXVPOLTXATBTMPK_FLBDS92 is identical to USA_DELIM-JBKYEBXVPOLTXATBTMPK_Tex_DELIM-JBKYEBXVPOLTXATBTMPK_TXBDS711 but kept for subsequent analysis
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.004 seconds
+
+NOTE: 1 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 1 CPU cores
+Increase to 10 rounds for branch lengths
+63 trees examined
+Threads: 1 / Time: 1.011 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -34405
+BEST NUMBER OF THREADS: 1
+
+Estimate model parameters (epsilon = 0.500)
+1. Initial log-likelihood: -11773.694
+2. Current log-likelihood: -11606.913
+Optimal log-likelihood: -11606.860
+Rate parameters:  A-C: 0.58155  A-G: 2.06031  A-T: 0.75750  C-G: 0.88100  C-T: 2.54791  G-T: 1.00000
+Base frequencies:  A: 0.249  C: 0.161  G: 0.255  T: 0.335
+Parameters optimization took 2 rounds (0.047 sec)
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 0.024753 sec (of wall-clock time) 0.024747 sec(of CPU time)
+Computing RapidNJ tree took 0.001259 sec (of wall-clock time) 0.001258 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -11921.702
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 1: -11604.353
+Finish initializing candidate tree set (4)
+Current best tree score: -11604.353 / CPU time: 0.231
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:1s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -11604.353
+Optimal log-likelihood: -11604.353
+Rate parameters:  A-C: 0.58213  A-G: 2.06550  A-T: 0.75959  C-G: 0.88223  C-T: 2.55066  G-T: 1.00000
+Base frequencies:  A: 0.249  C: 0.161  G: 0.255  T: 0.335
+Parameters optimization took 1 rounds (0.009 sec)
+BEST SCORE FOUND : -11604.353
+Total tree length: 0.355
+
+Total number of iterations: 2
+CPU time used for tree search: 0.213 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.231 sec (0h:0m:0s)
+Total CPU time used: 1.349 sec (0h:0m:1s)
+Total wall-clock time used: 1.356 sec (0h:0m:1s)
+
+Analysis results written to: 
+  IQ-TREE report:                results/aligned-delim.fasta.iqtree
+  Maximum-likelihood tree:       results/aligned-delim.fasta.treefile
+  Likelihood distances:          results/aligned-delim.fasta.mldist
+  Screen log file:               results/aligned-delim.fasta.log
+
+Date and Time: Mon Apr 24 04:02:52 2023
