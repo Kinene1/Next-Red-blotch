@@ -1,0 +1,155 @@
+LOCUS       MF795150                3206 bp    DNA     circular VRL 30-SEP-2018
+DEFINITION  Grapevine red blotch virus isolate BVSE62, complete genome.
+ACCESSION   MF795150
+VERSION     MF795150.1
+KEYWORDS    .
+SOURCE      Grapevine red blotch virus
+  ORGANISM  Grapevine red blotch virus
+            Viruses; Monodnaviria; Shotokuvirae; Cressdnaviricota;
+            Repensiviricetes; Geplafuvirales; Geminiviridae; Grablovirus.
+REFERENCE   1  (bases 1 to 3206)
+  AUTHORS   Adiputra,J. and Naidu,R.A.
+  TITLE     Relative incidence of two disparate viral diseases in Washington
+            State vineyards
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 3206)
+  AUTHORS   Adiputra,J. and Naidu,R.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-AUG-2017) Plant Pathology, Washington State
+            University, 24106 N Bunn Rd., Prosser, WA 99350, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3206
+                     /organism="Grapevine red blotch virus"
+                     /mol_type="genomic DNA"
+                     /isolate="BVSE62"
+                     /host="Vitis vinifera cv. Semillon"
+                     /db_xref="taxon:1381007"
+                     /country="USA"
+                     /collection_date="2014"
+                     /collected_by="Jati Adiputra"
+     gene            292..807
+                     /gene="V2"
+     CDS             292..807
+                     /gene="V2"
+                     /codon_start=1
+                     /product="V2 protein"
+                     /protein_id="AWY94338.1"
+                     /translation="MVTLNKRNRVLPECDSCSSSESSLNDIDICGDVDGLGDEALDAG
+                     SVYSSSQKLLVSVAKDVLLDDCDSTILDISLPSALWFLSQRYLTCCLRKELLPLPGIS
+                     EKQTVLLRQLIRRVARRHCLFTYKCEEWFEGCLKIKKDGNEKKEPPTEAEKKAQDDWE
+                     EFCRKAACSAS"
+     gene            710..1384
+                     /gene="V1"
+     CDS             710..1384
+                     /gene="V1"
+                     /codon_start=1
+                     /product="V1 protein"
+                     /protein_id="AWY94339.1"
+                     /translation="MVMKKRSRQRKQRRRRRTTGRSSAVRRRARPRSRPCQFAFHGNS
+                     FGGTPSLFFLTPIALGTGAEDRTGPVLTVSSMYLKGVVLPGENVTDGLHDIYFWIILD
+                     RFPTGTDPSVSDIFTGSDNSGSMIETLTRNRLNRKRFRILGSKKLVVGVNKKPQESLP
+                     HSRAAFNIFQRRRLVVAFKNDVSGGGRNDVERNRIYLSAAAASGHTFKLYLNGIVNFY
+                     NGVIFQ"
+     gene            1365..1736
+                     /gene="V3"
+     CDS             1365..1736
+                     /gene="V3"
+                     /codon_start=1
+                     /product="V3 protein"
+                     /protein_id="AWY94340.1"
+                     /translation="MELFFNRPRCLLWRVYDQVSEFGLYDGGEDVDIPIVGDDEDEEM
+                     VTTGYGEFVKTLKRRRSERGEVTKTYKRRIALTEPDRSRTEVEELRDYLLEEDYDKHR
+                     RRLDLELGSGLHSPDSRCTVM"
+     gene            complement(1898..2332)
+                     /gene="C2"
+     CDS             complement(1898..2332)
+                     /gene="C2"
+                     /codon_start=1
+                     /product="C2 protein"
+                     /protein_id="AWY94341.1"
+                     /translation="MLKEYITLTMNSTMQEATHRRRKSLVIEGPSKTGKTQWAISLGI
+                     HNYWCESVDFSLYIDDALYNIIDDIPFQYLPCKKALLGCQFNYIANEKYRPKRKIKGG
+                     IPSIVLCNPDNSYYDAITNWHATFKPWAEENIIFVKIDRPLY"
+     gene            complement(2250..3044)
+                     /gene="C1"
+     CDS             complement(2250..3044)
+                     /gene="C1"
+                     /codon_start=1
+                     /product="C1 protein"
+                     /protein_id="AWY94342.1"
+                     /translation="MASSSSFNLRSKNFFLTYPQCPVHKQFALDFFKSKFQKTLDYAL
+                     IGEEKHQNGEPHLHALLIFKKRQAIRNPKHFDITISSHSYHPNITKPRDVADVLNYVG
+                     KEGDTVEHGTKPTLKSKKQSRELDFGEFLRVANSKDEFLQLVKQHYPYQYVLNLQRLE
+                     YFAAQTWPPTPTPHANQWTAWNNLPPEIHLWVQNELYVVRKSSAQRNLGPGINNFLEQ
+                     ETKRVQHIIDDKLDAYYLDYVERIYNTDDELNNAGSDAPKEEEPGD"
+     gene            complement(2408..2890)
+                     /gene="C3"
+     CDS             complement(2408..2890)
+                     /gene="C3"
+                     /codon_start=1
+                     /product="C3 protein"
+                     /protein_id="AWY94343.1"
+                     /translation="MASHTYTPCSSSKNDRLFAIQNTLTSPYRLIPITPISQSPEMSP
+                     TCLITSEKKEIPSSTVQSQLSNQRSNPENWILENSYELQIPKTSFCNSSNNITPTNTS
+                     SIYNDLNTLLLKHGLPPLPHMPISGQLGITFHQKFISGSKTNSTWYAKAQHNETLDQE
+                     "
+ORIGIN      
+        1 actggcactt cccatggtac gtggtattct tgcggagcaa gtttctctac tttggcaaat
+       61 gcttctgatt ggttggtgtg gaatttattc ttttcttttg tcggccattt gcgtggcttt
+      121 tacgcgaagc taaagtggcc gcatatatgt tttttagtta gggtatatta ttaatggagg
+      181 atcgatgcgg gtggaaacgc actttggctg ttgtgctaat ttctctctca atattttggg
+      241 tgttgtactg gttagtattc ttctctcgtc gcatttgtaa gaggaatcgg aatggtaaca
+      301 ctgaacaaac ggaatcgcgt tcttcctgag tgcgattcct gcagttctag tgaaagttct
+      361 ttgaatgata ttgatatttg tggtgatgtt gatgggttag gggatgaggc tttagacgct
+      421 ggatccgttt attcgtcgtc acagaaactg ttagtttctg tggctaaaga tgttctttta
+      481 gatgactgtg attcaacgat attggatata tcgttgcctt ctgctttatg gtttttgtcg
+      541 caaagatatt tgacttgttg tttgaggaaa gaattactgc ctctgccagg tatatccgag
+      601 aaacagactg ttttattgcg acagctgatt aggcgtgtcg ctcgtcgtca ttgtttattt
+      661 acttacaagt gcgaggagtg gtttgagggt tgtttgaaga taaagaagga tggtaatgaa
+      721 aaaaaggagc cgccaacgga agcagagaag aaggcgcagg acgactggga ggagttctgc
+      781 cgtaaggcgg cgtgctcggc ctcgtagtag gccttgtcag tttgcattcc atgggaattc
+      841 ttttgggggt accccttccc tttttttttt gactccgatt gctttaggta cgggtgcgga
+      901 agacagaaca ggtccagtat tgactgtcag cagtatgtat ttgaaaggtg ttgtgcttcc
+      961 gggggaaaat gtcaccgatg gattgcatga tatttatttt tggataatct tggatcggtt
+     1021 tcctactgga actgatcctt cggtatctga tatattcact ggtagtgata acagcggaag
+     1081 catgattgag acattgacga ggaatcgttt gaatcgtaag agatttcgta ttttgggttc
+     1141 gaagaaactt gttgttggcg tgaataagaa gccgcaggag tcattgccac attcacgtgc
+     1201 agcatttaat atttttcaaa gacgtcgtct ggttgttgct tttaaaaacg acgtgtctgg
+     1261 tggaggacgt aatgatgttg aaaggaatcg tatttatttg tctgcggctg ctgcaagtgg
+     1321 acatacgttt aaattgtatc taaatggaat tgtaaacttt tataatggag ttatttttca
+     1381 atagaccacg ctgtttatta tggcgtgtgt atgatcaagt ttctgagttt ggtttgtatg
+     1441 atggtggtga agatgttgat atccccattg ttggggatga tgaagatgaa gaaatggtta
+     1501 caactggata tggtgaattc gttaagacgt tgaagagacg tcgatctgag cgcggagagg
+     1561 tgacaaagac ttacaagcga agaattgcat tgactgaacc tgatcgtagt agaactgaag
+     1621 ttgaagaatt gagagattat ttgttagagg aagattatga taagcataga agacgtctgg
+     1681 acctggagct aggctcaggc ttgcatagtc cagacagtcg ttgtacagta atgtgaatgt
+     1741 tgtatttgga tatttgaata atagaatatg gtgcaggagt ttattaaaat tataatgtaa
+     1801 acacttcgaa ataaatcaca cttcaatacc agacaatcag gcacgatttc tttatgaaag
+     1861 aacccagccg cgaagcggct ggctgacctt ttatttatca gtacaacggt ctatcaattt
+     1921 ttacaaagat aatgttttct tcagcccacg gcttgaatgt tgcatgccaa ttggtgattg
+     1981 catcatagta agagttatct ggattacaaa gaacaattga tgggatccct cctttgattt
+     2041 tccgctttgg acgatatttt tcatttgcaa tgtaattgaa ttgacaacct aataaggctt
+     2101 ttttacaagg caaatattgg aatggtatat cgtcaataat attgtacaaa gcgtcgtcta
+     2161 tgtatagact gaagtctact gattcacacc agtagttatg tattcccaat gatatagccc
+     2221 attgcgtttt acccgtcttc gatggtcctt caatcaccag gctcttcctc cttcggtgcg
+     2281 tcgcttcctg cattgttgag ttcatcgtca gtgttatata ttctttcaac ataatccaag
+     2341 taatacgcgt ccagcttgtc gtctattata tgctggacgc gttttgtttc ttgttcaagg
+     2401 aaattgttta ttcctggtcc aaggtttcgt tgtgctgagc ttttgcgtac cacgtagagt
+     2461 tcgttttgga cccagagatg aatttctggt ggaaggttat tccaagctgt ccactgattg
+     2521 gcatgtgggg taggggtggg aggccatgtt tgagcagcaa agtattcaag tcgttgtaga
+     2581 ttgaggacgt attggtaggg gtaatgttgt ttgacgagtt gcagaaactc gtctttggaa
+     2641 tttgcaactc gtaggaattc tccaaaatcc agttctctgg attgcttctt tgatttgaga
+     2701 gttggctttg taccgtgctc gacggtatct ccttcttttc cgacgtaatt aagcacgtcg
+     2761 gcgacatctc tgggctttgt gatattgggg tgataggaat gagacgatat ggtgatgtca
+     2821 aagtgttttg gattgcgaat agcctgtcgt tttttgaaga tgagcaaggc gtgtaggtgt
+     2881 ggctcgccat tctgatgttt ttcttctccg atgagagcgt aatctagggt tttttggaac
+     2941 ttggatttga agaagtctag ggcaaactgt ttatggactg ggcactgagg gtatgtgagg
+     3001 aagaagtttt ttgagcggag attgaaggag ctacttgatg ccatcttggt tgtataagat
+     3061 gggttggtac tctttatata gtggttgatt agatgacatc aggtgatgtc agctattttg
+     3121 ttttattatc cctcaattct agcttatagt tttggtggta ttttggtact cagggcaaaa
+     3181 tttgtattga agtgccatat aatatt
+//
+
