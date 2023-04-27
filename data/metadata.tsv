@@ -1,0 +1,166 @@
+strain	virus	accession	date	region	country	division	city	db	segment	authors
+USA/Flo/FLBDS94	GRBaV	OP597762.1	2021-10-XX	North America	USA Florida	USA Florida	USA Florida	genbank	genome	OuroDjobo et al
+USA/Flo/FLBDS92	GRBaV	OP597761.1	2021-10-XX	North America	USA Florida	USA Florida	USA Florida	genbank	genome	OuroDjobo et al
+USA/Tex/TXBDS712	GRBaV	OP597760.1	2021-10-XX	North America	USA Texas	USA Texas	USA Texas	genbank	genome	OuroDjobo et al
+USA/Tex/TXBDS711	GRBaV	OP597759.1	2021-10-XX	North America	USA Texas	USA Texas	USA Texas	genbank	genome	OuroDjobo et al
+USA/Tex/TXBDS70	GRBaV	OP597758.1	2021-10-XX	North America	USA Texas	USA Texas	USA Texas	genbank	genome	OuroDjobo et al
+USA/Tex/TXBDS66	GRBaV	OP597757.1	2021-10-XX	North America	USA Texas	USA Texas	USA Texas	genbank	genome	OuroDjobo et al
+USA/Tex/TXBDS65	GRBaV	OP597756.1	2021-10-XX	North America	USA Texas	USA Texas	USA Texas	genbank	genome	OuroDjobo et al
+USA/Tex/TXBDS63	GRBaV	OP597755.1	2021-10-XX	North America	USA Texas	USA Texas	USA Texas	genbank	genome	OuroDjobo et al
+USA/Tex/TXBDS59	GRBaV	OP597754.1	2021-10-XX	North America	USA Texas	USA Texas	USA Texas	genbank	genome	OuroDjobo et al
+USA/Ari/AzMVTN	GRBaV	OM135587.1	2021-09-XX	North America	USA Arizona	USA Arizona	USA Arizona	genbank	genome	Hu
+USA/Ari/AzDOV	GRBaV	OM135586.1	2021-09-XX	North America	USA Arizona	USA Arizona	USA Arizona	genbank	genome	Hu
+USA/CF214_1	GRBaV	NC_022002.1	10/09/2010	North America	USA	USA	USA	genbank	genome	Al Rwahnih et al
+USA/MWC_211	GRBaV	MN186405.1	2018-XX-XX	North America	USA	USA	USA	genbank	genome	Talton et al
+USA/MWC_166	GRBaV	MN186404.1	2018-XX-XX	North America	USA	USA	USA	genbank	genome	Talton et al
+USA/MWC_130	GRBaV	MN186403.1	2018-XX-XX	North America	USA	USA	USA	genbank	genome	Talton et al
+USA/Ida/GRBV_IDA8_Syrah_2011	GRBaV	MK928386.1	19/10/2011	North America	USA Idaho	USA Idaho	USA Idaho	genbank	genome	Thompson et al
+USA/Ida/GRBV_IDB8_Merlot_2011	GRBaV	MK928385.1	19/10/2011	North America	USA Idaho	USA Idaho	USA Idaho	genbank	genome	Thompson et al
+USA/Ida/GRBV_ID15_Syrah_2014	GRBaV	MK928384.1	23/09/2014	North America	USA Idaho	USA Idaho	USA Idaho	genbank	genome	Thompson et al
+USA/Ida/GRBV_ID14_Syrah_2014	GRBaV	MK928383.1	23/09/2014	North America	USA Idaho	USA Idaho	USA Idaho	genbank	genome	Thompson et al
+USA/Ida/GRBV_ID13_Syrah_2014	GRBaV	MK928382.1	23/09/2014	North America	USA Idaho	USA Idaho	USA Idaho	genbank	genome	Thompson et al
+USA/MO_CC7	GRBaV	MH732736.1	2017-10-XX	North America	USA	USA	USA	genbank	genome	Schoelz et al
+Mex/Guadalupe_JGB	GRBaV	MH557096.1	2016-XX-XX	North America	Mexico	Mexico	Mexico	genbank	genome	Gasperin et al
+Mex/Guadalupe_JCT	GRBaV	MH557095.1	2017-XX-XX	North America	Mexico	Mexico	Mexico	genbank	genome	Gasperin et al
+Can/NSRB8	GRBaV	MH476301.1	20/09/2016	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/NSRB7	GRBaV	MH476300.1	20/09/2016	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/NSRB6	GRBaV	MH476299.1	20/09/2016	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/NSRB5	GRBaV	MH476298.1	20/09/2016	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/NSRB4	GRBaV	MH476297.1	20/09/2016	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/NSRB3	GRBaV	MH476296.1	20/09/2016	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/NSRB2	GRBaV	MH476295.1	20/09/2016	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/NSRB1	GRBaV	MH476294.1	20/09/2016	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+USA/NY175A	GRBaV	MG672441.1	2016-03-XX	North America	USA	USA	USA	genbank	genome	Yepes et al
+USA/COMB133	GRBaV	MF795177.1	2016-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/COMR3	GRBaV	MF795176.1	2016-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/WASY1	GRBaV	MF795175.1	2014-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/SICS60	GRBaV	MF795174.1	2015-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/PHCS18	GRBaV	MF795173.1	2015-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/OLRS160	GRBaV	MF795172.1	2016-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/IDGN596	GRBaV	MF795171.1	2015-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/IDGN580	GRBaV	MF795170.1	2015-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/COCF93	GRBaV	MF795169.1	2016-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/COZN403	GRBaV	MF795168.1	2016-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/ZRCS37	GRBaV	MF795167.1	2015-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/VSCS5	GRBaV	MF795166.1	2015-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/VSCS3	GRBaV	MF795165.1	2015-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/TUMR5	GRBaV	MF795164.1	2015-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/OLSY6	GRBaV	MF795163.1	2015-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/OLSY4	GRBaV	MF795162.1	2015-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/NPPS9	GRBaV	MF795161.1	2014-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/NPPS7	GRBaV	MF795160.1	2014-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/LNCF6	GRBaV	MF795159.1	2014-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/LNCF1	GRBaV	MF795158.1	2014-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/EMGR6	GRBaV	MF795157.1	2014-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/DCMR01	GRBaV	MF795156.1	2014-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/CYBA82	GRBaV	MF795155.1	2014-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/CYCS77	GRBaV	MF795154.1	2015-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/CYCS45	GRBaV	MF795153.1	2014-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/CYTP4	GRBaV	MF795152.1	2014-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/BVSE65	GRBaV	MF795151.1	2014-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/BVSE62	GRBaV	MF795150.1	2014-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/BVPN64	GRBaV	MF795149.1	2014-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/BVPN63	GRBaV	MF795148.1	2014-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/BVMR152	GRBaV	MF795147.1	2014-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/BVMR68	GRBaV	MF795146.1	2014-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/ARSY14	GRBaV	MF795145.1	2014-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/ARSY13	GRBaV	MF795144.1	2014-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/ARCS10	GRBaV	MF795143.1	2014-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/ARSY5	GRBaV	MF795142.1	2014-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/ARSY4	GRBaV	MF795141.1	2014-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/MCCA66	GRBaV	MF696146.1	2016-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/LNSA1	GRBaV	MF696145.1	2016-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/LNSA21	GRBaV	MF696144.1	2016-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/TUCF84	GRBaV	MF696143.1	2016-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+USA/TUCF75	GRBaV	MF696142.1	2016-XX-XX	North America	USA	USA	USA	genbank	genome	Adiputra et al
+UNK/Z_A2V13	GRBaV	MF276895.1	2016-09-XX	?	?	?	?	genbank	genome	Reynard
+USA/Ohi/OH15_44	GRBaV	KY498151.1	2015-XX-XX	North America	USA Ohio	USA Ohio	USA Ohio	genbank	genome	Yao et al
+Can/93_26	GRBaV	KY426922.1	25/11/2014	North America	Canada	Canada	Canada	genbank	genome	Xiao et al
+Can/93_21	GRBaV	KY426921.1	25/11/2014	North America	Canada	Canada	Canada	genbank	genome	Xiao et al
+Can/ONRB7	GRBaV	KY316025.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/ONRB6	GRBaV	KY316024.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/ONRB5	GRBaV	KY316023.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/ONRB4	GRBaV	KY316022.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/ONRB3	GRBaV	KY316021.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/ONRB2	GRBaV	KY316020.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/ONRB1	GRBaV	KY316019.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB29	GRBaV	KY316018.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB28	GRBaV	KY316017.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB27	GRBaV	KY316016.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB26	GRBaV	KY316015.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB25	GRBaV	KY316014.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB24	GRBaV	KY316013.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB23	GRBaV	KY316012.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB22	GRBaV	KY316011.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB21	GRBaV	KY316010.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB20	GRBaV	KY316009.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB19	GRBaV	KY316008.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB18	GRBaV	KY316007.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB17	GRBaV	KY316006.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB16	GRBaV	KY316005.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB15	GRBaV	KY316004.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB14	GRBaV	KY316003.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB13	GRBaV	KY316002.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB12	GRBaV	KY316001.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB11	GRBaV	KY316000.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB10	GRBaV	KY315999.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB9	GRBaV	KY315998.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB8	GRBaV	KX234095.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB7	GRBaV	KX234094.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB6	GRBaV	KX234093.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB5	GRBaV	KX234092.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB4	GRBaV	KX234091.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB3	GRBaV	KX234090.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB2	GRBaV	KX234089.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+Can/BCRB1	GRBaV	KX234088.1	23/09/2015	North America	Canada	Canada	Canada	genbank	genome	Poojari et al
+SK/SW6	GRBaV	KU821056.1	22/07/2014	Asia	South Korea	South Korea	South Korea	genbank	genome	Lim et al
+USA/Cal/NY926	GRBaV	KU564256.1	2014-XX-XX	North America	USA California	USA California	USA California	genbank	genome	Perry et al
+USA/Cal/NY921	GRBaV	KU564255.1	2014-XX-XX	North America	USA California	USA California	USA California	genbank	genome	Perry et al
+USA/Cal/NY913	GRBaV	KU564254.1	2014-XX-XX	North America	USA California	USA California	USA California	genbank	genome	Perry et al
+USA/Cal/NY705	GRBaV	KU564253.1	2014-XX-XX	North America	USA California	USA California	USA California	genbank	genome	Perry et al
+USA/Cal/NY704	GRBaV	KU564252.1	2014-XX-XX	North America	USA California	USA California	USA California	genbank	genome	Perry et al
+USA/Cal/NY703	GRBaV	KU564251.1	2014-XX-XX	North America	USA California	USA California	USA California	genbank	genome	Perry et al
+USA/Cal/NY702	GRBaV	KU564250.1	2014-XX-XX	North America	USA California	USA California	USA California	genbank	genome	Perry et al
+USA/Cal/NY701	GRBaV	KU564249.1	2014-XX-XX	North America	USA California	USA California	USA California	genbank	genome	Perry et al
+USA/Cal/NY700	GRBaV	KU564248.1	2014-XX-XX	North America	USA California	USA California	USA California	genbank	genome	Perry et al
+USA/Cal/NY699	GRBaV	KU564247.1	2014-XX-XX	North America	USA California	USA California	USA California	genbank	genome	Perry et al
+Ind/RK_1	Grapevine_geminivirus	KU522121.1	18/02/2012	Asia	India	India	India	genbank	genome	Gaur et al
+USA/GRBaV_1	GRBaV	KP221559.1	1940-XX-XX	North America	USA	USA	USA	genbank	genome	Al Rwahnih et al
+USA/NY/NY147	GRBaV	KF751708.1	22/10/2012	North America	USA New York	USA New York	USA New York	genbank	genome	Krenz et al
+USA/Ore/OR1a	Grapevine_geminivirus	KF137562.1	2011-07-XX	North America	USA Oregon Newberg	USA Oregon Newberg	USA Oregon Newberg	genbank	genome	Seguin et al
+USA/Z1A_1	GRBaV	KC896625.1	10/09/2010	North America	USA	USA	USA	genbank	genome	Al Rwahnih et al
+USA/CS337_1	GRBaV	KC896624.1	10/09/2010	North America	USA	USA	USA	genbank	genome	Al Rwahnih et al
+USA/CF214_2	GRBaV	KC896623.1	10/09/2010	North America	USA	USA	USA	genbank	genome	Al Rwahnih et al
+USA/GiGV_WA_CF	Grapevine_redleaf_associated_virus	KC427996.1	2011-09-XX	North America	USA	USA	USA	genbank	genome	Poojari et al
+USA/GiGV_WA_MR	Grapevine_redleaf_associated_virus	KC427995.1	2011-09-XX	North America	USA	USA	USA	genbank	genome	Poojari et al
+USA/GiGV_WA_DS	Grapevine_redleaf_associated_virus	KC427994.1	2011-09-XX	North America	USA	USA	USA	genbank	genome	Poojari et al
+USA/GiGV_WA_RS	Grapevine_redleaf_associated_virus	KC427993.1	2011-09-XX	North America	USA	USA	USA	genbank	genome	Poojari et al
+Can/3138_03	Grapevine_geminivirus	JX559642.1	2011-09-XX	North America	Canada	Canada	Canada	genbank	genome	"Rott,M.E.,Belton,M."
+USA/NY/JRT456	GRBaV	JQ901105.2	17/11/2010	North America	USA New York	USA New York	USA New York	genbank	genome	Krenz et al
+GP220641_C11_8_BC02	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GRBaV_PosCtrl_BC12	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GP220641_C11_7_BC01	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GP220589_C60_1_BC04	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GRBaV_PosCtrl2_BC12	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GP220641_C11_6_BC10	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GP220641_C11_5_BC09	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GP220641_C11_3_BC07	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GP220641_C11_2_BC06	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GP220640_C10_8_BC04	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GRBaV_PosCtrl_GP220469_C4_3_BC12	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GP220638_C8_BC04	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GP220637_C7_BC03	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GRBaV_PosCtrl3_GP220469_C4_3	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GRBaV_PosCtrl_GP220469_C4_3C	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GP220725_C36_BC06	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GRBaVPosGP220469_C4_3	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GP220784_V51_BC08	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GP220725_V25_BC07	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GRBaV_positCTL_GP220469_C4_3_3_BC12	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GP220469_C4_10_2_BC10	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GP220469_C4_5_2_BC05	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GP220469_C4_3_1BC03	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+PositiveCtrlRB12	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GP220640_C10_2barcode10	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+PostCTLRB12_4_3	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
+GP220469_C4_6_BC10	GRBaV	?	2/08/2022	Australia	Western Ausltralia	Western Ausltralia	Western Ausltralia	?	genome	kinene et al
